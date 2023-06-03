@@ -42,9 +42,9 @@ npm run server
 npm run build
 ```
 
-## Deploy
+<!-- ## Deploy
 
-Page has been deployed via [Github pages](https://letstayfoolish.github.io/task-tracker-app-react/)
+Page has been deployed via [Github pages](https://letstayfoolish.github.io/task-tracker-app-react/) -->
 
 ## License
 
