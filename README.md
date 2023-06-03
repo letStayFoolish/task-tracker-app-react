@@ -42,10 +42,9 @@ npm run server
 npm run build
 ```
 
-<!-- ## Deploy
+## Deploy
 
-Page is deployed via [Netlify](https://app.netlify.com/) pages.
-Check it on: https://tasktrackerappreact.netlify.app -->
+Page has been deployed via [Github pages](https://letstayfoolish.github.io/task-tracker-app-react/)
 
 ## License
 
